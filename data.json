@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "title": "🎄 Những Truyền Thống Giáng Sinh Đẹp Nhất Thế Giới",
+        "content": "Giáng Sinh là thời điểm tuyệt vời để tìm hiểu về những truyền thống đặc sắc từ khắp nơi trên thế giới. Ở Đức, người dân có truyền thống trang trí cây thông từ thế kỷ 16, trong khi ở Mexico, họ tổ chức lễ hội Las Posadas kéo dài 9 đêm. Tại Nhật Bản, việc ăn KFC vào đêm Giáng Sinh đã trở thành phong tục độc đáo từ những năm 1970. Còn ở Australia, do đang là mùa hè, người dân thường tổ chức tiệc nướng ngoài trời và đón ông già Noel trong trang phục mùa hè!",
+        "image": "christmas-traditions",
+        "date": "2024-12-15"
+    },
+    {
+        "id": "2",
+        "title": "❄️ Bí Quyết Trang Trí Nhà Cửa Mùa Đông Ấm Áp",
+        "content": "Mùa đông là thời điểm hoàn hảo để biến ngôi nhà của bạn thành tổ ấm đầy ấm cúng. Hãy bắt đầu với việc thêm những chiếc nến thơm mùi quế và vani, kết hợp với đèn fairy lights lung linh. Sử dụng chăn lông cừu mềm mại đặt trên sofa, thêm gối tựa màu đỏ và xanh lá. Đừng quên trang trí lò sưởi với vòng hoa thông tươi và treo những đôi tất Giáng Sinh đáng yêu. Một bình hoa với cành thông, quả thông và quả berry đỏ sẽ là điểm nhấn hoàn hảo cho bàn ăn!",
+        "image": "winter-decor",
+        "date": "2024-12-18"
+    },
+    {
+        "id": "3",
+        "title": "🎁 Ý Tưởng Quà Tặng Giáng Sinh Handmade Ý Nghĩa",
+        "content": "Quà tặng handmade luôn mang theo tình cảm đặc biệt mà không món quà nào mua được có thể sánh bằng. Bạn có thể làm bánh quy gừng với nhiều hình dạng ngộ nghĩnh, đóng gói trong hộp thiếc xinh xắn. Hoặc thử làm nến thơm với tinh dầu bạc hà và hương thông. Những chiếc khăn len đan tay hay đôi găng tay ấm áp cũng là lựa chọn tuyệt vời. Nếu bạn thích nghệ thuật, hãy vẽ thiệp Giáng Sinh hoặc làm album ảnh kỷ niệm cho người thân yêu!",
+        "image": "handmade-gifts",
+        "date": "2024-12-20"
+    },
+    {
+        "id": "4",
+        "title": "☃️ Những Điểm Đến Mùa Đông Đẹp Như Cổ Tích",
+        "content": "Nếu bạn đang tìm kiếm điểm đến mùa đông trong mơ, Lapland ở Phần Lan là nơi hoàn hảo để gặp ông già Noel thực sự! Hallstatt ở Áo với những ngôi nhà gỗ phủ tuyết trắng như bước ra từ truyện cổ tích. Quebec City ở Canada biến thành vương quốc tuyết với lễ hội Winter Carnival nổi tiếng. Không thể bỏ qua Zermatt ở Thụy Sĩ với núi Matterhorn hùng vĩ, hay Sapporo ở Nhật Bản với lễ hội tuyết hoành tráng và những tác phẩm điêu khắc băng ấn tượng!",
+        "image": "winter-destinations",
+        "date": "2024-12-22"
+    },
+    {
+        "id": "5",
+        "title": "🍪 Công Thức Các Món Ăn Giáng Sinh Truyền Thống",
+        "content": "Bàn tiệc Giáng Sinh sẽ không thể thiếu những món ăn truyền thống đầy hương vị. Hãy bắt đầu với gà tây nướng nhồi táo và hạt dẻ, phủ nước sốt cranberry thơm ngon. Bánh khúc cây Yule Log với kem chocolate đậm đà là món tráng miệng kinh điển. Đừng quên chuẩn bị hot chocolate với marshmallow bông xốp, và apple cider ấm nóng với quế. Bánh quy gừng và kẹo cane là món ăn vặt hoàn hảo trong khi quây quần bên gia đình xem phim Giáng Sinh!",
+        "image": "christmas-food",
+        "date": "2024-12-24"
+    }
+]
